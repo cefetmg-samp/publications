@@ -3,4 +3,5 @@
 A apresentação foi realizada presencialmente no Campus Nova Suíça do [CEFET-MG](https://www.cefetmg.br/).
 
 * [Banner](./banner.pdf)
+* [Diário de bordo](./diario-de-bordo.pdf)
 * [Resumo](./resumo.pdf)
